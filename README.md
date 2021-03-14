@@ -13,7 +13,7 @@
 ![{@4 L0KV 5NW2M $5WHIT%B](https://user-images.githubusercontent.com/43578886/111066162-8dc22980-84f8-11eb-867b-1a67a2a22886.png)
 ### TODO
 
-- [ ] 重构大量重复代码
+- [ ] 使用c++重构代码
 - [ ] 提高帧数和有效性
 
 ### 完整demo下载
