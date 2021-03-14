@@ -17,3 +17,6 @@
 - [ ] 提高帧数和有效性
 
 ### 完整demo下载
+链接：https://pan.baidu.com/s/176eWNMTLGC9JzSinkUqz1Q 
+提取码：znbs 
+复制这段内容后打开百度网盘手机App，操作更方便哦--来自百度网盘超级会员V5的分享
